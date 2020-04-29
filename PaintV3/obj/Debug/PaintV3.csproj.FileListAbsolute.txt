@@ -1,0 +1,37 @@
+C:\Users\Lars\source\repos\PaintV3\PaintV3\bin\Debug\PaintV3.exe.config
+C:\Users\Lars\source\repos\PaintV3\PaintV3\bin\Debug\PaintV3.exe
+C:\Users\Lars\source\repos\PaintV3\PaintV3\bin\Debug\PaintV3.pdb
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.csprojAssemblyReference.cache
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\MainWindow.g.cs
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\App.g.cs
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3_MarkupCompile.cache
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3_MarkupCompile.lref
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\MainWindow.baml
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.g.resources
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.Properties.Resources.resources
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.csproj.GenerateResource.cache
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.exe
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\PaintV3.pdb
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\SettingsWindow.g.cs
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\DarkTheme.baml
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\Default.baml
+C:\Users\Lars\source\repos\PaintV3\PaintV3\obj\Debug\SettingsWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\bin\Debug\PaintV3.exe.config
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\bin\Debug\PaintV3.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\bin\Debug\PaintV3.pdb
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.csprojAssemblyReference.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\MainWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\SettingsWindow.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\App.g.cs
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3_MarkupCompile.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3_MarkupCompile.lref
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\DarkTheme.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\Default.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\MainWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\SettingsWindow.baml
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.g.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.Properties.Resources.resources
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.csproj.GenerateResource.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.csproj.CoreCompileInputs.cache
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.exe
+C:\Users\Saint\Desktop\Files for me\drive-download-20200429T114439Z-001\WPF\PaintV2\PaintV3\obj\Debug\PaintV3.pdb

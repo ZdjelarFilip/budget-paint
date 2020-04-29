@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PaintV3">
+
+
+    <Style TargetType="Window"
+       >
+        <Setter Property="Background" Value="#eeeeee"></Setter>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="#eeeeee"/>
+    </Style>
+    <Style TargetType="StackPanel" >
+        <Setter Property="Background" Value="#eeeeee"></Setter>
+    </Style>
+    <Style TargetType="StackPanel" x:Key="stack" >
+        <Setter Property="Background" Value="white"></Setter>
+    </Style>
+    <Style TargetType="ComboBox">
+        <Setter Property="Background" Value="#eeeeee"></Setter>
+    </Style>
+    <Style TargetType="InkCanvas">
+        <Setter Property="Background" Value="#eeeeee"></Setter>
+    </Style>
+
+
+
+
+</ResourceDictionary>
